@@ -3,6 +3,7 @@
     <title>Cool Time Display</title>
     <!-- Bootstrap CSS CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
     <style>
         body {
             min-height: 100vh;
